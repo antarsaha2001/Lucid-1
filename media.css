@@ -1,0 +1,387 @@
+@media(max-width:768px){
+
+
+
+    /* Banner */
+    .pone {
+        width: 89%;
+        margin: auto;
+        margin-top: 25px;
+        position: static;
+    
+        margin-left: 25px;
+    }
+
+
+
+
+
+/* feature_section */
+    .hight {
+        
+        padding-bottom: 0;
+    }
+    .Mobile_text_top {
+        margin: 0px 0px;
+        padding-bottom: 25px;
+        margin-top: -30px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+    @media (max-width:575px){
+
+
+
+    .img-fluid {
+        
+        margin-left: 30px;
+    }
+    .navbar_toggler_icon {
+        
+        margin-right: 30px;
+    }
+    .nav-item {
+        padding: 0px 6px;
+        margin: auto;
+    }
+    
+    
+/* Banner */
+.pone {
+    width: 89%;
+    margin: auto;
+    margin-top: 25px;
+    position: static;
+
+}
+
+.hight {
+        
+    text-align:center;
+   
+    }
+
+    .hight h5 {
+    
+        font-size: 13px;
+        margin-bottom: 10px;
+        
+    }
+    .hight h2 {
+        
+        font-size: 30px;
+        
+        font-weight: 500;
+    }
+
+    .hight p {
+        
+        font-size: 14px;
+        
+        margin-bottom: 35px;
+    }
+
+
+
+
+
+
+
+    
+
+    
+
+
+    /* feature_section */
+    
+    .feature_text h3 {
+        font-size: 30px;
+        
+        margin-bottom: 20px;
+        
+    }
+
+    .feature_text h5 {
+        
+        padding: 0px 0px;
+        font-weight: 800;
+    }
+
+    .hight p {
+        
+width: 80%;
+        
+margin: auto;
+        
+margin-bottom: 35px;
+        
+font-size: 14px;
+    }
+
+    .hight {
+        padding: 0px 0px;
+        
+        padding-top: 25px;
+    }
+
+
+
+
+    /* Mobile_section */
+
+
+
+
+    .Mobile_img {
+    width: 60%;
+    margin: auto;
+    margin-top: -40px;
+}
+
+    
+    .Mobile_text_top h4 {
+        font-size: 32px;
+        
+        padding: 8px 0px;
+        margin-bottom: 0px;
+    } 
+
+
+
+
+
+
+
+
+
+    /* pone_section */
+
+
+    .pone_section {
+        background: rgb(242, 242, 242);
+        padding: 0px 0px;
+    }
+    .pone_text h5 {
+        
+        padding-top: 0px;
+        
+    }
+    .pone_text h3 {
+        font-size: 30px;
+    }
+    .pone_text p {
+        font-size: 15px;
+        margin-bottom: 28px;
+        /* width: 80%; */
+    }
+    .pone_img_P{
+        
+width: 85%;
+        
+margin: auto;
+    } 
+
+
+    /* info_section */
+
+
+
+
+    .owl-carousel {
+        
+        width: 80%;
+        
+        margin: auto;
+    }
+
+
+    .slid_content p {
+        /* width: 80%;
+        margin: auto; */
+    }
+
+
+
+
+
+
+
+
+
+
+    /* like */
+     .like h2 {
+        font-size: 26px;
+        
+        padding: 10px 0px;
+        text-align: center;
+    }
+    .like {
+        
+        padding: 20px 0px;
+    }
+
+    .like span {
+        font-size: 20px;
+        
+    } */
+    /* Pricings_top */
+    .Pricings_content h4 {
+        padding: 5px 0px;
+        margin-top: 20px;
+    }
+     .Pricings_content {
+        
+        padding: 0px;
+    } 
+
+
+
+
+    /* Pricings */
+
+    
+     .card_top {
+        padding: 20px;
+    }
+
+    .card.text-center {
+        min-width: 80%;
+        margin: auto;
+    }
+    .card {
+        
+        margin: auto;
+    }
+    .card-header h3 {
+        font-size: 22px;
+        padding: 6px;
+        
+    }
+    .card-body h5 {
+        font-size: 55px;
+    }
+    .card-footer h6 {
+        
+        margin: -10px 20px;
+        padding: 20px 35px;
+    } 
+
+
+
+
+
+    /* contact */
+
+     .contact {
+       
+    padding: 20px 0px 410px 0px;
+    }
+
+    .contact_text h2 {
+        
+        margin-bottom: -15px;
+        
+    }
+    .pone_content i {
+        
+        margin-bottom: 10px;
+    } 
+
+
+
+
+
+
+
+    /* from */
+
+    .form {
+        
+        padding: 35px 30px;
+        
+        bottom: -50px;
+        
+        left: 49%;
+        
+        width: 80%;
+    } 
+
+
+
+
+    /* map */
+   
+
+
+
+    /* footer */
+    footer {
+        
+        padding: 25px 0;
+       
+        padding-top: 6px;
+    }
+
+
+    .link_secthon h4 {
+        
+        font-size: 14px;
+        margin-left: 25px;
+        flex-direction: column-reverse;
+        
+    }
+    
+    .link_secthon{
+        display:flex block;
+        flex-direction: column-reverse;
+        
+    }
+    .link_secthon ul{
+        padding: 20px;
+        width: 50%;
+        margin: auto;
+        
+    }
+    .link_secthon ul li{
+        text-align: center;
+        margin: auto;
+        
+    }
+    .link_secthon ul li i{
+        
+        margin-right: 0px;
+        font-size: 20px;
+        margin: auto;
+        
+        
+        
+    } 
+    
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+}
+
+
